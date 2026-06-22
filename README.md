@@ -40,4 +40,5 @@ While building this project, I learned how to:
 Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/Aastha-Bhatia/macbookpro_3d_landingpage
+```
