@@ -2,8 +2,11 @@
 
 A modern, interactive 3D landing page inspired by Apple's product websites.  
 This project focuses on creating a smooth and immersive web experience using React, Three.js and React Three Fiber.
-
 The main goal of this project was to explore 3D web development, realistic model rendering, animations, and scroll-based interactions.
+
+
+https://github.com/user-attachments/assets/27211e44-669f-476c-be2e-82ee3670a654
+
 
 ## ✨ Features
 
